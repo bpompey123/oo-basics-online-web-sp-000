@@ -15,7 +15,6 @@ class Shoe
   end
 
   def cobble(shoe)
-    shoe = []
     puts "Your shoe is as good as new!"
     shoe.condition << "new"
   end
